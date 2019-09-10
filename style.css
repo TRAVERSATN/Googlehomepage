@@ -1,0 +1,200 @@
+
+p {
+    color: grey;
+}
+
+body{
+		margin:0;
+		padding:0;
+}
+#conteneur {
+		 height: 22vh;width: 100%;
+}
+
+
+#element{
+		list-style: none;
+		margin-left:1200px;
+		margin-top:20px;
+}	
+
+.introduction {
+  		text-decoration: none;
+  }	
+
+.introduction:hover {
+   		text-decoration: underline;
+   }
+
+.introduction {
+   		 color: grey;
+}
+
+.introduction {
+    	font-size: small;
+}
+
+
+
+button{
+	    height: 40px;width:140px;
+	    background-color: #F6F6F6;
+	    font-size: 15px;color: #222222;
+	    margin-top:25px;
+	    border: 1px solid #E4E4E4
+
+}
+
+.droite {
+ 		 text-decoration: none;
+  }	
+
+.droite:hover {
+  		 text-decoration: underline;
+   }
+
+.droite {
+    	color: black;
+}
+
+
+.droite {
+  	  font-size: small;
+}
+
+.barre {
+   		 font-size: xx-large;
+}
+
+.barre {
+  		  display: flex;
+  		  justify-content: center;
+  		  align-items: flex-start;
+} 
+
+.connexion {
+    font-size: small;
+}
+
+
+.connexion {
+    color: blue;
+}
+
+.carré
+{
+    display: flex;
+    justify-content: center;
+    width: 30px;
+    height: 30px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.bouttons {
+    font-size: medium;
+}
+
+.bouttons {
+    color: grey;
+}
+
+.bouttons {
+    display: flex;
+    justify-content: center;
+} 
+
+
+#conteneur {
+    display: flex;
+    justify-content: flex-end;
+} 
+
+
+#conteneur2 {
+	      height: 55px;width: 1532px;
+	      background-color: #F2F2F2;
+	      border: 1px solid #E4E4E4;
+	      margin-top: 5px
+
+} 
+
+
+
+#conteneurs{
+	         list-style: none;
+	         margin-left: 1050px;
+	         color: #6F6F6F
+}
+
+#conteneur3 {
+	height: 140px;
+	width: 400px;
+	margin-left: 400px;
+	margin-top: 0px;
+
+}
+
+#site-search {
+	height: 140px;
+	width: 400px;
+	margin-left: 350px;
+}
+
+#bas {
+	display: flex;
+	align-items: flex-start;
+}
+
+input{
+	   height: 40px;
+	   width: 580px;
+	   margin-left: 480px;
+	   padding-left: 5px;
+	   font-size: 20px;
+	  border: 1px solid #e5e5e5;
+	  border-radius: 1%;
+	  box-shadow:         0px 2px 0px 0px #e5e5e5;">
+
+}
+
+*{
+    font-family: arial;
+} 
+
+* {
+ box-sizing: border-box;
+}
+
+*:before,
+*:after {
+ box-sizing: border-box;
+}
+
+
+.main-container {
+ min-height: 100vh; /* will cover the 100% of viewport */
+ overflow: hidden;
+ display: block;
+ position: relative;
+ padding-bottom: 100px; /* height of your footer */
+}
+
+footer {
+ position: absolute;
+ bottom: 0;
+ width: 99%;
+}
+
+
+#clic {
+display: flex;
+align-items: flex-start;
+}
+
+#barrederch {
+	width: 40px;
+	margin-left: 150px;
+	margin-top: -200px;
+
+}
